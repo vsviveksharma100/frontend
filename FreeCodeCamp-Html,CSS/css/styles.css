@@ -1,0 +1,49 @@
+/* css rules */
+/* selectors */
+/* declaration block */
+/* property: value; */
+
+h2 {
+  color: green;
+}
+
+p {
+  color: azure;
+}
+
+/* ID Selectors */
+#title {
+  color: green;
+  background: black;
+}
+
+#subheading {
+  color: red;
+  background: grey;
+}
+
+/* Class Selector */
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+#greenie {
+  font-size: 40px;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+span {
+  text-transform: uppercase;
+}
+
+/* INHERITANCE */
+body {
+  color: red;
+}
